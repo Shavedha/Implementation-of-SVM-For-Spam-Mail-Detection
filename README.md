@@ -63,13 +63,20 @@ accuracy
 ```
 
 ## Output:
-
-
 ### data.head()
+<img width="452" alt="image" src="https://github.com/Shavedha/Implementation-of-SVM-For-Spam-Mail-Detection/assets/93427376/866645a5-b65c-4dad-bda3-43e2b383a51b">
+
 ### data.info()
+<img width="261" alt="image" src="https://github.com/Shavedha/Implementation-of-SVM-For-Spam-Mail-Detection/assets/93427376/5197f76b-87ff-4e84-bf55-dfbe25468ffc">
+
 ### data.isnull().sum()
+<img width="174" alt="image" src="https://github.com/Shavedha/Implementation-of-SVM-For-Spam-Mail-Detection/assets/93427376/590d4cea-ce2b-45a0-86b3-56d150b597d7">
+
 ### Y_prediction value
-### Accuracy value
+<img width="468" alt="image" src="https://github.com/Shavedha/Implementation-of-SVM-For-Spam-Mail-Detection/assets/93427376/069e51c1-7f1c-4144-b73a-31190be65eae">
+
+### Accuracy value
+<img width="293" alt="image" src="https://github.com/Shavedha/Implementation-of-SVM-For-Spam-Mail-Detection/assets/93427376/399e65f0-75f4-491f-9bcb-96e08fe9654d">
 
 
 ## Result:
